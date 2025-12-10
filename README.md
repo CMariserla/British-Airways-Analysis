@@ -1,2 +1,2 @@
 # British-Airways-Analysis
-Replication of Mo Chen's British Airways Dashboard Project through Tableau.
+British Airways Dashboard Project through Tableau.
